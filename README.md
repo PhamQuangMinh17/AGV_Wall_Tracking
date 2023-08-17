@@ -13,6 +13,6 @@ Simple wall-following automated guided vehicle for exploring basic of embedded s
 - 2 Switch: 1 for ON-OFF whole 1 system and 1 for ON-OFF Arduino Uno only.
 
 **Usage:**
-- Putting the AGV beside the worl so that the 2 ultrasonic sensors of the right-side of robot facing directly to the wall.
-- After downloading code to Arduino and power up the AGV, it will start moving by continuously tracking the wall from the right side.
+- Putting the AGV beside the wall so that the 2 ultrasonic sensors on the right-side of robot facing directly to the wall.
+- After downloading code to Arduino and powering up the AGV, it will start moving by continuously tracking the wall from the right side.
 - AGV will turn left when there is an obstacle on the front.
