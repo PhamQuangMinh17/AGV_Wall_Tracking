@@ -1,8 +1,9 @@
 # AGV_Wall_Tracking
 ## Description
-
-Simple wall-following automated guided vehicle for exploring basic of embedded system.
-
+Simple wall-following automated guided vehicle for exploring basic of embedded system. 
+## Feature: 
+- AGV moving by tracking the wall on its right side
+- AGV turn left when there is an obstacle on the front
 ## Components:
 
 - Arduino Uno
